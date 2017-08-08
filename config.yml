@@ -1,0 +1,26 @@
+#################
+#####DISPLAY#####
+#################
+tag: "&5[&cA&dEnchantments&5] "
+anvilBlock: ANVIL
+anvilBorder: IRON_BLOCK
+anvilActivator: EMERALD_BLOCK
+anvilCostIndicator: EXP_BOTTLE
+anvilDecorationItem1: REDSTONE
+anvilDecorationItem2: REDSTONE
+enableAnvilShiftClick: true
+enchantmentTableBlock: ENCHANTMENT_TABLE
+enchantmentTableBorder: OBSIDIAN
+enchantmentTableActivator: EMERALD_BLOCK
+enchantmentTableCostIndicator: EXP_BOTTLE
+enchantmentTableDecorationItem1: BOOK
+enchantmentTableDecorationItem2: BOOK
+enableEnchantmentTableShiftClick: true
+###################
+#####MECHANICS#####
+###################
+maxSafeEnchantmentsOnItem: 3
+canEnchantItemsWithNoEnchantmentUsePermission: false
+no0Weights: false
+
+

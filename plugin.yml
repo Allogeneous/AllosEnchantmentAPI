@@ -1,0 +1,60 @@
+name: AllosEnchantmentsAPI
+version: 2.3.6
+author: Allogeneous
+main: me.Allogeneous.AllosEnchantsAPI.core.AllosEnchantsMain
+
+commands:
+    aenchants:
+        description: Allows use of /aenchants
+        usage: "/aenchants help"
+    
+permissions:
+    aenchants.help:
+        description: Allows the use of /aenchants help
+        default: op
+    aenchants.list:
+        description: Allows the use of /aenchants list
+        default: op
+    aenchants.ids:
+        description: Allows the use of /aenchants ids
+        default: op
+    aenchants.anvil:
+        description: Allows the use of /aenchants anvil
+        default: op
+    aenchants.table:
+        description: Allows the use of /aenchants table
+        default: op
+    aenchants.makebook:
+        description: Allows the use of /aenchants makebook
+        default: op
+    aenchants.disenchant:
+        description: Allows the use of /aenchants disenchant
+        default: op
+    aenchants.enchant.general:
+        description: Allows the use of /aenchants enchant
+        default: op
+    aenchants.enchant.safe:
+        description: Allows the use of /aenchants enchant safe
+        default: op
+    aenchants.enchant.unsafe:
+        description: Allows the use of /aenchants enchant unsafe
+        default: op
+    aenchants.reload:
+        description: Allows the use of /aenchants reload
+        default: op
+    aenchants.hooks.list:
+        description: Allows the use of /aenchants hooks
+        default: op
+    aenchants.fullreload:
+        description: Allows the use of /aenchants fullreload
+        default: op
+    aenchants.interact.enchantmentTable:
+        description: Allows players to shift click an enchantment table
+        default: true
+    aenchants.interact.anvil:
+        description: Allows players to shift click an anvil
+        default: true
+    
+    
+    
+        
